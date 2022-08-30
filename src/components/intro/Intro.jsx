@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaAward } from 'react-icons/fa';
 import { VscFolderLibrary } from 'react-icons/vsc';
-import ME from '../../assets/Rasif Tagizade image.jpg';
+// import ME from '../../assets/Rasif Tagizade image.jpg';
 import './intro.css';
 
 const Intro = () => {
