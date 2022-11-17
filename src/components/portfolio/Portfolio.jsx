@@ -7,7 +7,7 @@ import IMG5 from "../../assets/Jokes Project.jpg";
 import IMG6 from "../../assets/Project4.jpg";
 
 import "./portfolio.css";
-
+//Portfolio function
 const Portfolio = () => {
   const soloProjects = [
     {
