@@ -1,4 +1,4 @@
-# JS Portfolio Website
+# React JS Portfolio Website
 
 [🔗Live Demo🔗](https://rasif-taghizade-portfolio.vercel.app/)
 
