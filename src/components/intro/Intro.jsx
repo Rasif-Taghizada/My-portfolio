@@ -1,8 +1,12 @@
-import React from "react";
-import { FaAward } from "react-icons/fa";
-import { VscFolderLibrary } from "react-icons/vsc";
-// import ME from '../../assets/Rasif Tagizade image.jpg';
 import "./intro.css";
+
+import { FaAward } from "react-icons/fa";
+import React from "react";
+import { VscFolderLibrary } from "react-icons/vsc";
+import img from '../../assets/Me.png'
+
+// import ME from '../../assets/Rasif Tagizade image.jpg';
+
 
 const Intro = () => {
   return (
@@ -11,7 +15,9 @@ const Intro = () => {
       <h2>About Me</h2>
       <div className="container about__container">
         <div className="about__me">
-          <div className="about__me-image"></div>
+          <div className="about__me-image">
+            <img src={img} alt="Rasif Taghizade" />
+          </div>
         </div>
         <div className="about__content">
           <div className="about__cards">
