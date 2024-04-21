@@ -1,9 +1,9 @@
 import "./portfolio.css";
 
 import IMG1 from "../../assets/Educational Website.jpg";
-import IMG2 from "../../assets/RubyCode Blog Project.jpg";
+import IMG2 from "../../assets/reservation-form.png";
 import IMG3 from "../../assets/Startup Agency Project.jpg";
-import IMG4 from "../../assets/Covid-19 Project.jpg";
+import IMG4 from "../../assets/fh-huquq.png";
 import IMG5 from "../../assets/Jokes Project.jpg";
 import IMG6 from "../../assets/Project4.jpg";
 import React from "react";
@@ -23,22 +23,22 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Covid-19 Tracking App",
+      title: "fh-huquq.az",
       img: IMG4,
       description:
-        "The COVID Tracking Project collects and publishes the most complete testing data available for all areas of the world.",
-      technologies: "React | Redux",
-      link: "https://covid-19-tracker-weld-nu.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Covid-19-Tracking",
+        "A personal website assembled for a lawyer. Firebase is the basis of the website assembled as a full stack",
+      technologies: "HTML | CSS | JavaScript | Express Js | Firebase",
+      link: "https://fh-huquq-com.vercel.app/",
+      github: "https://github.com/Rasif-Taghizada/fh-huquq.com",
     },
     {
       id: 3,
-      title: "RubyCode Blog Project",
+      title: "Hospital reservation form",
       img: IMG2,
-      description: "This site is a kind of social media platform. You can register and share your posts.",
-      technologies: "React | Redux",
-      link: "https://rubycode-blog-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/RubyCode-Blog",
+      description: "A booking website for doctor's appointments at the hospital. The website is mainly functionally developed with JavaScript",
+      technologies: "HTML | CSS | JavaScript",
+      link: "https://fs-code-task-two.vercel.app/",
+      github: "https://github.com/Rasif-Taghizada/FS-Code-Task",
     },
     {
       id: 4,

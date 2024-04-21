@@ -20,7 +20,7 @@ const Footer = () => {
       <a href="https://github.com/Rasif-Taghizada" target="_blank" rel="noreferrer" ><FaGithub /></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; ET 2022. All rights reserved.</small>
+        <small>&copy; Rasif 2024. All rights reserved.</small>
       </div>
     </footer>
   )
